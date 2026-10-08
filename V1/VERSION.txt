@@ -1,0 +1,5 @@
+Resume_Model_V1
+Baseline model package
+Reference TF-IDF feature count: 44,046
+Candidate pool: 1,540
+Job listings: 434

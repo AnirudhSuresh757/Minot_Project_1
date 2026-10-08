@@ -1,0 +1,29 @@
+{
+  "model_name": "V3-RS",
+  "model_type": "ExtraTreesRegressor",
+  "training_rows": 568210,
+  "candidate_count": 1540,
+  "job_count": 434,
+  "full_pair_count": 668360,
+  "recommendation_count_per_resume": 20,
+  "recommendation_rows": 30800,
+  "n_estimators": 200,
+  "min_samples_leaf": 2,
+  "feature_order": [
+    "Cosine",
+    "Skill_Score",
+    "Normalized_Cosine",
+    "Required_Skill_Count",
+    "Matched_Skill_Count",
+    "Role_Similarity",
+    "Semantic_Similarity",
+    "Role_Title_Semantic_Similarity",
+    "Weighted_Skill_Score"
+  ],
+  "benchmark": {
+    "rows": 25400,
+    "trials": 10,
+    "heldout_resumes": 308
+  },
+  "final_model_file": "v3_final_extratrees_rs_568210.joblib"
+}

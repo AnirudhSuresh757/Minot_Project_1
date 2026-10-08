@@ -1,0 +1,10 @@
+Feature_Index,Feature_Name,Source
+1,Cosine,Existing V3
+2,Skill_Score,Existing V3
+3,Normalized_Cosine,Existing V3
+4,Required_Skill_Count,Existing V3
+5,Matched_Skill_Count,Existing V3
+6,Role_Similarity,Existing V3
+7,Semantic_Similarity,Existing V3
+8,Role_Title_Semantic_Similarity,New V3 enhancement
+9,Weighted_Skill_Score,New V3 enhancement

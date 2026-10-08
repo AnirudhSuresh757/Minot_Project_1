@@ -1,0 +1,766 @@
+Skill,Job_Document_Frequency,IDF_Weight
+writing clarity and grammar,1,6.382198850528739
+writing clarity,1,6.382198850528739
+writing and grammar,1,6.382198850528739
+workflow awareness,1,6.382198850528739
+vpc,1,6.382198850528739
+video production,1,6.382198850528739
+version control (git),1,6.382198850528739
+ux/ui awareness,1,6.382198850528739
+ux awareness,1,6.382198850528739
+usability testing,1,6.382198850528739
+usability,1,6.382198850528739
+ai-assisted writing tools,1,6.382198850528739
+ai-assisted code evaluation,1,6.382198850528739
+ai writing tool exposure,1,6.382198850528739
+ai writing tool awareness,1,6.382198850528739
+ai tools exposure,1,6.382198850528739
+ai tool awareness,1,6.382198850528739
+ai content tools awareness,1,6.382198850528739
+ai coding assistants,1,6.382198850528739
+"ai coding assistant usage (chatgpt, copilot)",1,6.382198850528739
+agile/scrum understanding,1,6.382198850528739
+agile/scrum knowledge,1,6.382198850528739
+antivirus tools,1,6.382198850528739
+antivirus,1,6.382198850528739
+algorithms,1,6.382198850528739
+ajax/json,1,6.382198850528739
+unit testing,1,6.382198850528739
+"understanding of agile, scrum, waterfall",1,6.382198850528739
+understanding of agile and scrum methodologies,1,6.382198850528739
+ui/ux guidelines,1,6.382198850528739
+trello,1,6.382198850528739
+"tools: jira, figma",1,6.382198850528739
+"tools: jira, confluence, figma",1,6.382198850528739
+"tools: jira, confluence",1,6.382198850528739
+"tools: figma, jira, confluence",1,6.382198850528739
+"tools: confluence, figma",1,6.382198850528739
+test case writing,1,6.382198850528739
+terraform/cloudformation knowledge,1,6.382198850528739
+terraform/cloudformation awareness,1,6.382198850528739
+aws cloud,1,6.382198850528739
+aws beginner,1,6.382198850528739
+"automation: selenium, appium, cucumber basic knowledge",1,6.382198850528739
+"automation tools awareness: selenium, appium, cucumber",1,6.382198850528739
+async programming,1,6.382198850528739
+technical seo,1,6.382198850528739
+technical accuracy,1,6.382198850528739
+teamwork and collaboration,1,6.382198850528739
+team coordination,1,6.382198850528739
+team communication,1,6.382198850528739
+task scheduling,1,6.382198850528739
+task and milestone tracking,1,6.382198850528739
+switching,1,6.382198850528739
+statistics and probability,1,6.382198850528739
+statistics,1,6.382198850528739
+sql queries,1,6.382198850528739
+sql (mysql/postgresql),1,6.382198850528739
+spring framework,1,6.382198850528739
+spring,1,6.382198850528739
+basic budgeting and resource allocation,1,6.382198850528739
+basic budgeting,1,6.382198850528739
+"basic automation: selenium webdriver, appium, cucumber",1,6.382198850528739
+basic automation scripts,1,6.382198850528739
+basic architecture design,1,6.382198850528739
+bash/shell scripting,1,6.382198850528739
+social media seo,1,6.382198850528739
+social media platforms,1,6.382198850528739
+social media management,1,6.382198850528739
+social media,1,6.382198850528739
+smart contract development and testing,1,6.382198850528739
+"basic knowledge of project management methodologies (agile, scrum, waterfall)",1,6.382198850528739
+"basic knowledge of nmap, burp suite",1,6.382198850528739
+basic jenkins,1,6.382198850528739
+basic javascript,1,6.382198850528739
+basic html,1,6.382198850528739
+basic erp/crm knowledge,1,6.382198850528739
+basic debugging,1,6.382198850528739
+basic data analytics,1,6.382198850528739
+basic cryptography understanding,1,6.382198850528739
+basic cryptography knowledge,1,6.382198850528739
+basic container orchestration knowledge,1,6.382198850528739
+basic ci/cd concepts,1,6.382198850528739
+basic ci/cd and devops exposure,1,6.382198850528739
+site indexing,1,6.382198850528739
+shell scripting (bash/zsh),1,6.382198850528739
+"seo, sem, ppc",1,6.382198850528739
+seo copywriting,1,6.382198850528739
+"sensors (lidar, ultrasonic, infrared)",1,6.382198850528739
+basic project planning and scheduling,1,6.382198850528739
+basic project planning,1,6.382198850528739
+basic product management concepts,1,6.382198850528739
+basic networking,1,6.382198850528739
+"basic monitoring (nagios, grafana)",1,6.382198850528739
+"basic ml: regression, classification, clustering",1,6.382198850528739
+"basic ml: logistic regression, decision trees, k-means",1,6.382198850528739
+"basic ml: logistic regression, clustering, decision trees",1,6.382198850528739
+"basic ml: classification, clustering",1,6.382198850528739
+"basic ml models: decision trees, k-means, logistic regression",1,6.382198850528739
+"basic ml algorithms: regression, classification, clustering",1,6.382198850528739
+basic microservices understanding,1,6.382198850528739
+basic marketing automation,1,6.382198850528739
+basic link building,1,6.382198850528739
+basic knowledge of waterfall and agile,1,6.382198850528739
+bgp (intro),1,6.382198850528739
+basic writing and grammar,1,6.382198850528739
+basic workflow management,1,6.382198850528739
+basic vulnerability assessment,1,6.382198850528739
+basic usability testing,1,6.382198850528739
+basic seo practices,1,6.382198850528739
+basic security and compliance awareness,1,6.382198850528739
+basic routing,1,6.382198850528739
+basic rest api knowledge,1,6.382198850528739
+scrum and kanban,1,6.382198850528739
+scripting,1,6.382198850528739
+schema markup,1,6.382198850528739
+sales automation awareness,1,6.382198850528739
+rust,1,6.382198850528739
+routing,1,6.382198850528739
+business process knowledge,1,6.382198850528739
+budgeting,1,6.382198850528739
+bluetooth and zigbee protocols,1,6.382198850528739
+blogging and copywriting,1,6.382198850528739
+blog and article writing,1,6.382198850528739
+risk assessment,1,6.382198850528739
+restful apis,1,6.382198850528739
+rest api knowledge,1,6.382198850528739
+rest api integration,1,6.382198850528739
+responsive layouts,1,6.382198850528739
+research and accuracy,1,6.382198850528739
+requirement gathering,1,6.382198850528739
+reporting and documentation,1,6.382198850528739
+report preparation,1,6.382198850528739
+python (django/flask),1,6.382198850528739
+pycharm,1,6.382198850528739
+proofreading and editing,1,6.382198850528739
+prompt creation,1,6.382198850528739
+prompt crafting,1,6.382198850528739
+prometheus,1,6.382198850528739
+project management methodology,1,6.382198850528739
+product strategy,1,6.382198850528739
+product lifecycle understanding,1,6.382198850528739
+cloud (aws/azure/gcp),1,6.382198850528739
+cloud (aws/azure),1,6.382198850528739
+"cloud (aws, gcp, azure)",1,6.382198850528739
+clear and persuasive writing,1,6.382198850528739
+clarity in writing,1,6.382198850528739
+cisco switches,1,6.382198850528739
+canva and wordpress,1,6.382198850528739
+canva and adobe creative suite,1,6.382198850528739
+process observation,1,6.382198850528739
+problem-solving and critical thinking,1,6.382198850528739
+ppc campaigns,1,6.382198850528739
+ppc ads,1,6.382198850528739
+polymorphism,1,6.382198850528739
+pid controller,1,6.382198850528739
+cms knowledge,1,6.382198850528739
+"cms (wordpress, hubspot)",1,6.382198850528739
+cloudwatch,1,6.382198850528739
+cloud security,1,6.382198850528739
+cloud platforms (aws/azure/gcp),1,6.382198850528739
+cloud platform (aws/azure/gcp),1,6.382198850528739
+cloud networking,1,6.382198850528739
+cloud iot,1,6.382198850528739
+cloud database,1,6.382198850528739
+cloud concepts,1,6.382198850528739
+pid control,1,6.382198850528739
+pid,1,6.382198850528739
+physics and collision,1,6.382198850528739
+persuasive copywriting,1,6.382198850528739
+perl,1,6.382198850528739
+penetration testing,1,6.382198850528739
+page speed optimization,1,6.382198850528739
+ospf,1,6.382198850528739
+communication and coordination,1,6.382198850528739
+collaboration and teamwork,1,6.382198850528739
+collaboration and communication,1,6.382198850528739
+code review,1,6.382198850528739
+cms tools (wordpress),1,6.382198850528739
+cms tools,1,6.382198850528739
+openai gpt models intro,1,6.382198850528739
+openai gpt models exposure,1,6.382198850528739
+openai gpt model,1,6.382198850528739
+openai gpt intro,1,6.382198850528739
+openai gpt,1,6.382198850528739
+observation,1,6.382198850528739
+"nosql (mongodb, hbase)",1,6.382198850528739
+content marketing,1,6.382198850528739
+content formatting,1,6.382198850528739
+content editing and proofreading,1,6.382198850528739
+containerization (docker),1,6.382198850528739
+concurrency,1,6.382198850528739
+nlp introduction,1,6.382198850528739
+network troubleshooting,1,6.382198850528739
+network security,1,6.382198850528739
+network monitoring,1,6.382198850528739
+multithreading,1,6.382198850528739
+multitasking,1,6.382198850528739
+"monitoring: cloudwatch, prometheus, azure monitor",1,6.382198850528739
+"monitoring tools intro (prometheus, grafana)",1,6.382198850528739
+monitoring (prometheus/grafana/nagios),1,6.382198850528739
+"monitoring (nagios, grafana)",1,6.382198850528739
+mobile/console platform awareness,1,6.382198850528739
+mobile/console development,1,6.382198850528739
+mobile game awareness,1,6.382198850528739
+customer-centric design awareness,1,6.382198850528739
+cucumber awareness,1,6.382198850528739
+creative design tools,1,6.382198850528739
+crawlability checks,1,6.382198850528739
+"ml libraries: scikit-learn, tensorflow, pytorch, keras",1,6.382198850528739
+"ml libraries (scikit-learn, pandas)",1,6.382198850528739
+"ml : supervised/unsupervised learning, regression, classification, clustering, decision trees",1,6.382198850528739
+"ml : supervised/unsupervised learning, classification, regression, clustering",1,6.382198850528739
+"ml : classification, regression, clustering, supervised/unsupervised learning",1,6.382198850528739
+"ml : classification, regression, clustering, decision trees",1,6.382198850528739
+maven,1,6.382198850528739
+material design,1,6.382198850528739
+"marketing automation tools (mailchimp, hubspot)",1,6.382198850528739
+data reporting,1,6.382198850528739
+data interpretation,1,6.382198850528739
+data analytics,1,6.382198850528739
+data analysis and metrics interpretation,1,6.382198850528739
+"data analysis (excel, sql )",1,6.382198850528739
+"data analysis (excel, google analytics)",1,6.382198850528739
+marketing analytics,1,6.382198850528739
+market research and competitor analysis,1,6.382198850528739
+"manual testing: functional, regression, black-box",1,6.382198850528739
+looker studio,1,6.382198850528739
+linux/windows os,1,6.382198850528739
+linux os,1,6.382198850528739
+linux commands,1,6.382198850528739
+linux and windows os,1,6.382198850528739
+linux (kali/parrot os),1,6.382198850528739
+linkedin marketing,1,6.382198850528739
+lidar and ultrasonic sensors,1,6.382198850528739
+lidar and infrared sensors,1,6.382198850528739
+layout design,1,6.382198850528739
+django/flask,1,6.382198850528739
+digital sales,1,6.382198850528739
+digital advertising,1,6.382198850528739
+database management,1,6.382198850528739
+database,1,6.382198850528739
+kpi tracking and reporting,1,6.382198850528739
+kpi tracking,1,6.382198850528739
+kpi knowledge,1,6.382198850528739
+jupyter notebook,1,6.382198850528739
+jenkins/github actions,1,6.382198850528739
+java collections,1,6.382198850528739
+iot,1,6.382198850528739
+introductory security awareness,1,6.382198850528739
+embedded firmware understanding,1,6.382198850528739
+"email marketing tools (mailchimp, hubspot)",1,6.382198850528739
+"email marketing (mailchimp, hubspot )",1,6.382198850528739
+email and social media familiarity,1,6.382198850528739
+documentation,1,6.382198850528739
+introductory penetration testing,1,6.382198850528739
+introductory nodejs knowledge,1,6.382198850528739
+introductory nlp,1,6.382198850528739
+introductory ml,1,6.382198850528739
+introductory docker/kubernetes knowledge,1,6.382198850528739
+introduction to cloud platforms,1,6.382198850528739
+intro to monitoring (prometheus/grafana),1,6.382198850528739
+intro to machine learning,1,6.382198850528739
+intro nlp,1,6.382198850528739
+interviewing smes,1,6.382198850528739
+etl process awareness,1,6.382198850528739
+etl knowledge,1,6.382198850528739
+etl awareness,1,6.382198850528739
+ethical mindset,1,6.382198850528739
+ethical compliance,1,6.382198850528739
+encapsulation,1,6.382198850528739
+embedded systems,1,6.382198850528739
+interface builder,1,6.382198850528739
+"instagram, linkedin",1,6.382198850528739
+instagram marketing,1,6.382198850528739
+instagram and linkedin marketing,1,6.382198850528739
+inheritance,1,6.382198850528739
+incident management,1,6.382198850528739
+hugging face transformers,1,6.382198850528739
+excel visualization,1,6.382198850528739
+excel dashboards,1,6.382198850528739
+excel charts and pivot tables,1,6.382198850528739
+excel advanced functions,1,6.382198850528739
+event management,1,6.382198850528739
+event coordination,1,6.382198850528739
+etl tools introduction,1,6.382198850528739
+etl process knowledge,1,6.382198850528739
+"html, css, javascript",1,6.382198850528739
+hadoop ecosystem,1,6.382198850528739
+"hadoop (hdfs, mapreduce, hive, pig)",1,6.382198850528739
+"hadoop (hdfs, hive, mapreduce)",1,6.382198850528739
+grammar and style,1,6.382198850528739
+grammar and punctuation mastery,1,6.382198850528739
+gradle,1,6.382198850528739
+google search console,1,6.382198850528739
+google cloud,1,6.382198850528739
+google ads and facebook ads,1,6.382198850528739
+git/github/gitlab,1,6.382198850528739
+file handling,1,6.382198850528739
+"familiarity with project tools (ms project, trello)",1,6.382198850528739
+"familiarity with nmap, sqlmap",1,6.382198850528739
+familiarity with nmap and wireshark,1,6.382198850528739
+familiarity with ms project and trello,1,6.382198850528739
+"familiarity with microsoft project, jira, trello",1,6.382198850528739
+"familiarity with metasploit, wireshark",1,6.382198850528739
+familiarity with metasploit and burp suite,1,6.382198850528739
+"familiarity with jira, ms project, trello",1,6.382198850528739
+familiarity with jira and trello,1,6.382198850528739
+familiarity with digital marketing channels,1,6.382198850528739
+game development,1,6.382198850528739
+firewalls,1,6.382198850528739
+firewall rules,1,6.382198850528739
+firewall configuration,1,6.382198850528739
+windows/linux,1,6.382198850528739
+windows,1,6.382198850528739
+web app security,1,6.382198850528739
+vpn setup,1,6.382198850528739
+agile understanding,1,6.382198850528739
+agile methodology knowledge,1,6.382198850528739
+"agile methodologies (scrum, kanban)",1,6.382198850528739
+agile knowledge,1,6.382198850528739
+agile awareness,1,6.382198850528739
+"agile (scrum, kanban )",1,6.382198850528739
+adobe indesign,1,6.382198850528739
+adobe creative suite,1,6.382198850528739
+adaptation of tone and style,1,6.382198850528739
+adaptable writing style,1,6.382198850528739
+adaptable tone and style,1,6.382198850528739
+agile methodology awareness,2,5.976733742420574
+vue,2,5.976733742420574
+actuator integration,2,5.976733742420574
+workflow observation,2,5.976733742420574
+wordpress,2,5.976733742420574
+pid controllers,2,5.976733742420574
+ci/cd introduction,2,5.976733742420574
+product lifecycle,2,5.976733742420574
+process awareness,2,5.976733742420574
+gpt model exposure,2,5.976733742420574
+google ads,2,5.976733742420574
+github,2,5.976733742420574
+cisco ios,2,5.976733742420574
+cisco routers,2,5.976733742420574
+google analytics ga4,2,5.976733742420574
+ui,2,5.976733742420574
+tcp/ip networking,2,5.976733742420574
+etl process understanding,2,5.976733742420574
+excel charts and dashboards,2,5.976733742420574
+ids/ips intro,2,5.976733742420574
+iam,2,5.976733742420574
+"automation awareness: selenium, appium, cucumber",2,5.976733742420574
+terraform awareness,2,5.976733742420574
+hibernate,2,5.976733742420574
+"hadoop (hdfs, mapreduce, hive)",2,5.976733742420574
+opengl,2,5.976733742420574
+intro to ml,2,5.976733742420574
+communication and interpersonal skills,2,5.976733742420574
+encryption,2,5.976733742420574
+embedded systems development,2,5.976733742420574
+embedded systems design,2,5.976733742420574
+intellij,2,5.976733742420574
+incident response,2,5.976733742420574
+razor,2,5.976733742420574
+smart contracts,2,5.976733742420574
+smart contract testing,2,5.976733742420574
+collections framework,2,5.976733742420574
+resource allocation,2,5.976733742420574
+nunit,2,5.976733742420574
+cms usage,2,5.976733742420574
+"networking (tcp/ip, dns)",2,5.976733742420574
+jdbc,2,5.976733742420574
+jmeter,2,5.976733742420574
+json handling,2,5.976733742420574
+jsp,2,5.976733742420574
+introductory data science,2,5.976733742420574
+iso 27001,2,5.976733742420574
+java i/o,2,5.976733742420574
+java apis,2,5.976733742420574
+sql querying,2,5.976733742420574
+email campaigns,2,5.976733742420574
+editing and proofreading,2,5.976733742420574
+docker introduction,2,5.976733742420574
+cms (wordpress),2,5.976733742420574
+cloud storage,2,5.976733742420574
+physics and animation,2,5.976733742420574
+physics,2,5.976733742420574
+ai writing tools,2,5.976733742420574
+agility,2,5.976733742420574
+ansible awareness,2,5.976733742420574
+virtualbox,2,5.976733742420574
+facebook ads manager,2,5.976733742420574
+functional and regression testing,2,5.976733742420574
+"visualization: matplotlib, seaborn",2,5.976733742420574
+"monitoring: cloudwatch, azure monitor",2,5.976733742420574
+basic security awareness,2,5.976733742420574
+vulnerability scanning,2,5.976733742420574
+financial domain knowledge,2,5.976733742420574
+financial knowledge,2,5.976733742420574
+"monitoring: cloudwatch, prometheus",2,5.976733742420574
+search console,2,5.976733742420574
+data cleaning,2,5.976733742420574
+marketing automation,2,5.976733742420574
+black-box testing,2,5.976733742420574
+maya,2,5.976733742420574
+"ml : regression, classification, clustering, decision trees",2,5.976733742420574
+mobile seo,2,5.976733742420574
+servo motors,2,5.976733742420574
+basic data analysis,2,5.976733742420574
+smart contract development,2,5.976733742420574
+kubernetes introduction,2,5.976733742420574
+directx,2,5.976733742420574
+solarwinds,2,5.976733742420574
+aws s3,2,5.976733742420574
+kpi understanding,2,5.976733742420574
+content creation and copywriting,2,5.976733742420574
+consumer behavior analysis,2,5.976733742420574
+nlp,2,5.976733742420574
+nist,2,5.976733742420574
+keyword usage,2,5.976733742420574
+blogging,2,5.976733742420574
+linux (kali linux/parrot os),2,5.976733742420574
+blender/maya,2,5.976733742420574
+branding,2,5.976733742420574
+core javascript es6+,2,5.976733742420574
+linux security,2,5.976733742420574
+basic seo,2,5.976733742420574
+ux principles awareness,2,5.976733742420574
+apis,2,5.976733742420574
+ai coding assistant usage,2,5.976733742420574
+fact-checking,2,5.976733742420574
+"ml libraries: scikit-learn, tensorflow, pytorch",2,5.976733742420574
+creativity and storytelling,2,5.976733742420574
+business metrics awareness,2,5.976733742420574
+business acumen,2,5.976733742420574
+seo and sem,2,5.976733742420574
+seo/sem,2,5.976733742420574
+servlets,2,5.976733742420574
+data modeling,2,5.976733742420574
+data collection,2,5.976733742420574
+ruby,2,5.976733742420574
+shell scripting,2,5.976733742420574
+vpn,3,5.689051669968793
+vmware,3,5.689051669968793
+vulnerability assessment,3,5.689051669968793
+prompt engineering,3,5.689051669968793
+pytest,3,5.689051669968793
+python scripting,3,5.689051669968793
+tone and style adaptation,3,5.689051669968793
+github/gitlab,3,5.689051669968793
+google cloud iot,3,5.689051669968793
+php,3,5.689051669968793
+persuasive writing,3,5.689051669968793
+communication skills,3,5.689051669968793
+introduction to penetration testing,3,5.689051669968793
+erp/crm,3,5.689051669968793
+information architecture,3,5.689051669968793
+ethical awareness,3,5.689051669968793
+terraform/cloudformation,3,5.689051669968793
+aws codepipeline,3,5.689051669968793
+aws awareness,3,5.689051669968793
+gpt models intro,3,5.689051669968793
+financial products understanding,3,5.689051669968793
+excel functions,3,5.689051669968793
+etl understanding,3,5.689051669968793
+linq,3,5.689051669968793
+keyword research,3,5.689051669968793
+basic ci/cd,3,5.689051669968793
+email marketing,3,5.689051669968793
+javascript es6+,3,5.689051669968793
+junit,3,5.689051669968793
+introductory microservices knowledge,3,5.689051669968793
+dynamics,3,5.689051669968793
+email marketing tools,3,5.689051669968793
+invision,3,5.689051669968793
+off-page seo,3,5.689051669968793
+dhcp,3,5.689051669968793
+directx/opengl,3,5.689051669968793
+data wrangling,3,5.689051669968793
+digital marketing awareness,3,5.689051669968793
+azure awareness,3,5.689051669968793
+on-page seo,3,5.689051669968793
+code evaluation,3,5.689051669968793
+blender,3,5.689051669968793
+core java,3,5.689051669968793
+copywriting,3,5.689051669968793
+link building,3,5.689051669968793
+local seo,3,5.689051669968793
+lora,3,5.689051669968793
+machine learning,3,5.689051669968793
+smart contract implementation,3,5.689051669968793
+data types,3,5.689051669968793
+data structures,3,5.689051669968793
+cybersecurity awareness,3,5.689051669968793
+basic figma,3,5.689051669968793
+"basic ml: classification, regression, clustering",3,5.689051669968793
+basic team coordination,3,5.689051669968793
+sensor and actuator integration,3,5.689051669968793
+metasploit,3,5.689051669968793
+monitoring,3,5.689051669968793
+manual testing concepts,3,5.689051669968793
+"ml frameworks: scikit-learn, tensorflow, pytorch, keras",3,5.689051669968793
+wireframes,3,5.689051669968793
+motion tracking,3,5.689051669968793
+monitoring tools,3,5.689051669968793
+nessus,3,5.689051669968793
+nagios,3,5.689051669968793
+airflow,3,5.689051669968793
+financial products knowledge,3,5.689051669968793
+vbdotnet,3,5.689051669968793
+gcp awareness,3,5.689051669968793
+gdpr,3,5.689051669968793
+animation,3,5.689051669968793
+apache nifi,3,5.689051669968793
+ai writing tools awareness,3,5.689051669968793
+3d modeling,4,5.465908118654584
+game mechanics,4,5.465908118654584
+user flows,4,5.465908118654584
+visual studio,4,5.465908118654584
+windows server,4,5.465908118654584
+windows os,4,5.465908118654584
+mysql/postgresql,4,5.465908118654584
+web application security,4,5.465908118654584
+basic seo knowledge,4,5.465908118654584
+sem,4,5.465908118654584
+data visualization,4,5.465908118654584
+basic statistical analysis,4,5.465908118654584
+sensor integration,4,5.465908118654584
+curiosity,4,5.465908118654584
+uikit,4,5.465908118654584
+aspnet mvc,4,5.465908118654584
+graphql,4,5.465908118654584
+adobe illustrator,4,5.465908118654584
+sas,4,5.465908118654584
+content research,4,5.465908118654584
+control flow,4,5.465908118654584
+bluetooth,4,5.465908118654584
+lan/wan,4,5.465908118654584
+linear algebra,4,5.465908118654584
+content optimization,4,5.465908118654584
+coap,4,5.465908118654584
+"data visualization: matplotlib, seaborn",4,5.465908118654584
+debugging ai outputs,4,5.465908118654584
+digital marketing,4,5.465908118654584
+social media marketing,4,5.465908118654584
+subnetting,4,5.465908118654584
+"basic automation: selenium, appium, cucumber",4,5.465908118654584
+javascript (es6+),4,5.465908118654584
+research and fact-checking,4,5.465908118654584
+introductory machine learning,4,5.465908118654584
+zigbee,4,5.465908118654584
+ui/ux design,4,5.465908118654584
+etl concepts,4,5.465908118654584
+reporting,4,5.465908118654584
+redis,4,5.465908118654584
+cloudformation,4,5.465908118654584
+requirement documentation,4,5.465908118654584
+dotnetcore,4,5.465908118654584
+dns,4,5.465908118654584
+research,4,5.465908118654584
+storytelling,4,5.465908118654584
+firewall,4,5.465908118654584
+mqtt,5,5.283586561860629
+windows security,5,5.283586561860629
+appium,5,5.283586561860629
+motor control,5,5.283586561860629
+supervised/unsupervised learning,5,5.283586561860629
+objective-c,5,5.283586561860629
+azure iot,5,5.283586561860629
+ros,5,5.283586561860629
+matlab,5,5.283586561860629
+simulator,5,5.283586561860629
+kinematics,5,5.283586561860629
+solidworks,5,5.283586561860629
+linux administration,5,5.283586561860629
+snort,5,5.283586561860629
+aws iot,5,5.283586561860629
+intro to nlp,5,5.283586561860629
+arcore,5,5.283586561860629
+arduino,5,5.283586561860629
+raspberry pi,5,5.283586561860629
+"statistics: probability, linear algebra",5,5.283586561860629
+ipv6,5,5.283586561860629
+spatial computing,5,5.283586561860629
+entity framework,5,5.283586561860629
+arkit,5,5.283586561860629
+testng,5,5.283586561860629
+terraform,5,5.283586561860629
+autocad,5,5.283586561860629
+c,5,5.283586561860629
+cloud,5,5.283586561860629
+adobe photoshop,5,5.283586561860629
+vs code,5,5.283586561860629
+problem solving,6,5.129435882033371
+python/bash scripting,6,5.129435882033371
+cms familiarity,6,5.129435882033371
+aspnet,6,5.129435882033371
+excel charts,6,5.129435882033371
+feature engineering,6,5.129435882033371
+github actions,6,5.129435882033371
+grammar and punctuation,6,5.129435882033371
+dotnetframework,6,5.129435882033371
+aws/azure,6,5.129435882033371
+digital sales awareness,6,5.129435882033371
+debugging,6,5.129435882033371
+market research,6,5.129435882033371
+customer engagement,6,5.129435882033371
+basic statistics,6,5.129435882033371
+content creation,6,5.129435882033371
+html/css,6,5.129435882033371
+indesign,6,5.129435882033371
+mvc,7,4.995904489408848
+user research,7,4.995904489408848
+presentation skills,7,4.995904489408848
+product knowledge,7,4.995904489408848
+json,7,4.995904489408848
+lead generation,7,4.995904489408848
+testrail,7,4.995904489408848
+terraform/ansible awareness,7,4.995904489408848
+unittest,7,4.995904489408848
+apache spark,7,4.995904489408848
+etl,7,4.995904489408848
+survey design,7,4.995904489408848
+crm,7,4.995904489408848
+markdown,7,4.995904489408848
+clear writing,7,4.995904489408848
+qualitative research,7,4.995904489408848
+relationship building,7,4.995904489408848
+report writing,7,4.995904489408848
+agile,7,4.995904489408848
+active listening,7,4.995904489408848
+hypothesis testing,8,4.878121453752465
+basic html/css,8,4.878121453752465
+corda,8,4.878121453752465
+bugzilla,8,4.878121453752465
+cybersecurity,8,4.878121453752465
+selenium webdriver,8,4.878121453752465
+cocoa touch,8,4.878121453752465
+cms,8,4.878121453752465
+wireshark,8,4.878121453752465
+classification,9,4.772760938094638
+hugging face,9,4.772760938094638
+manual testing,9,4.772760938094638
+neural networks,9,4.772760938094638
+seo,9,4.772760938094638
+scikit-learn,9,4.772760938094638
+keras,9,4.772760938094638
+bash scripting,9,4.772760938094638
+ajax,9,4.772760938094638
+fastapi,9,4.772760938094638
+xcode,9,4.772760938094638
+git/github,9,4.772760938094638
+xml,9,4.772760938094638
+opencv,9,4.772760938094638
+clustering,9,4.772760938094638
+functions,10,4.6774507582903135
+google analytics,10,4.6774507582903135
+solidity,10,4.6774507582903135
+sqlite,10,4.6774507582903135
+talend,10,4.6774507582903135
+tailwind css,10,4.6774507582903135
+express.js,10,4.6774507582903135
+ethereum,10,4.6774507582903135
+unreal engine,10,4.6774507582903135
+restful api,10,4.6774507582903135
+prompt writing,10,4.6774507582903135
+remix ide,10,4.6774507582903135
+proofreading,10,4.6774507582903135
+research skills,10,4.6774507582903135
+rest api,10,4.6774507582903135
+photoshop,10,4.6774507582903135
+api integration,10,4.6774507582903135
+hyperledger,10,4.6774507582903135
+api testing,10,4.6774507582903135
+truffle,10,4.6774507582903135
+sql server,10,4.6774507582903135
+data preprocessing,10,4.6774507582903135
+spacy,10,4.6774507582903135
+browser developer tools,10,4.6774507582903135
+bootstrap,10,4.6774507582903135
+soapui,10,4.6774507582903135
+dapps,10,4.6774507582903135
+data analysis,10,4.6774507582903135
+linux/unix,10,4.6774507582903135
+blockchain,10,4.6774507582903135
+illustrator,11,4.590439381300683
+swift,11,4.590439381300683
+kotlin,11,4.590439381300683
+unity,11,4.590439381300683
+android studio,11,4.590439381300683
+docker/kubernetes,12,4.510396673627147
+exception handling,12,4.510396673627147
+networking,12,4.510396673627147
+oop,12,4.510396673627147
+test documentation,12,4.510396673627147
+wireframing,13,4.436288701473425
+responsive design,13,4.436288701473425
+cypress,13,4.436288701473425
+tcp/ip,13,4.436288701473425
+scala,13,4.436288701473425
+selenium,13,4.436288701473425
+bash,14,4.367295829986475
+seaborn,14,4.367295829986475
+functional testing,14,4.367295829986475
+regression testing,14,4.367295829986475
+analytical thinking,14,4.367295829986475
+excel,15,4.3027573088489035
+cryptography,15,4.3027573088489035
+ci/cd,16,4.242132687032468
+critical thinking,16,4.242132687032468
+ui/ux,16,4.242132687032468
+spark,16,4.242132687032468
+color theory,16,4.242132687032468
+team collaboration,16,4.242132687032468
+regression,17,4.18497427319252
+prototyping,17,4.18497427319252
+attention to detail,17,4.18497427319252
+rest apis,17,4.18497427319252
+nosql,18,4.130907051922243
+hadoop,19,4.079613757534693
+pytorch,19,4.079613757534693
+adobe xd,19,4.079613757534693
+tensorflow,19,4.079613757534693
+kubernetes,19,4.079613757534693
+nltk,19,4.079613757534693
+linux,20,4.030823593365261
+sketch,20,4.030823593365261
+typography,20,4.030823593365261
+html5,21,3.984303577730368
+css3,21,3.984303577730368
+gcp,21,3.984303577730368
+jenkins,22,3.9398518151595345
+jira,22,3.9398518151595345
+tableau,24,3.856470206220483
+matplotlib,24,3.856470206220483
+vue.js,26,3.779509165084355
+django,26,3.779509165084355
+angular,26,3.779509165084355
+flask,26,3.779509165084355
+docker,27,3.7431415209134804
+power bi,28,3.70805020110221
+numpy,28,3.70805020110221
+postman,30,3.641358826603538
+csharp,30,3.641358826603538
+figma,33,3.5489855064725226
+nodejs,33,3.5489855064725226
+r,33,3.5489855064725226
+aws,34,3.5199979695992702
+react,35,3.4918270926325743
+collaboration,36,3.4644281184444594
+postgresql,36,3.4644281184444594
+azure,37,3.4377598713622985
+pandas,37,3.4377598713622985
+creativity,40,3.3617739643843763
+css,42,3.314145915395122
+html,42,3.314145915395122
+time management,44,3.268683541318364
+mysql,46,3.2251984293786253
+cpp,48,3.1835257329780573
+mongodb,53,3.0863619845244097
+adaptability,62,2.9322113046971516
+javascript,87,2.5980092166104773
+sql,92,2.542746537935428
+teamwork,95,2.510997839620848
+problem-solving,99,2.4701758451005924
+java,114,2.330413902725434
+git,125,2.2390641241372062
+communication,136,2.155365105260559
+python,208,1.7330117791238733

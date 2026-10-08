@@ -1,0 +1,26 @@
+V2 Resume-Job Matching Model
+==================================================
+
+Model: CatBoostRegressor
+
+Features:
+- Cosine
+- Normalized_Cosine
+- Skill_Score
+- Role_Similarity
+- Matched_Skill_Count
+- Required_Skill_Count
+- Experience_Level_Alignment
+
+Hyperparameters:
+iterations=500
+learning_rate=0.05
+depth=8
+l2_leaf_reg=5
+random_seed=42
+
+Strict Holdout Performance:
+V1 Spearman=0.520821
+V2 Spearman=0.608388
+V2 MAE=0.386883
+V2 R2=0.371155
