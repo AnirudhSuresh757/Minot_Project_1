@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local / private ML artifacts
+Resume.csv
+candidate_df.pkl
+entry_job_df.pkl
+tfidf_vectorizer.pkl
+evaluation_df_v1.pkl
+
+# Large model files
+*.joblib
+*.npy
+
+# Generated training / labeling data
+V2_100k/
+V3_Final/
+
+# Handoff / model packages
+V3_HANDOFF.zip
+V3_FINAL_TEAM_HANDOFF.zip
+V2_FINAL_Model_Package.zip
+Resume_Model_V1.zip
+Resume_Model_V1_Final_Corrected.zip
+
+# Local notebooks / scratch
+Stats_MP.txt
+v3_TRUE_BLIND_REVIEW_127.csv
+v3_recovery_round_297_1250_labeling_prompt.md
